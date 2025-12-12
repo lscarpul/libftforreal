@@ -1,0 +1,10 @@
+*.o
+*.a
+*.swp
+*.swo
+*~
+.DS_Store
+a.out
+*.out
+test_libft
+test_main
