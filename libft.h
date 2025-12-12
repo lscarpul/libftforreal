@@ -15,6 +15,7 @@
 
 # include <stdlib.h>
 # include <unistd.h>
+# include <stdint.h>
 
 /* Character checking functions */
 int		ft_isalpha(int c);
